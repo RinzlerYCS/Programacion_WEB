@@ -1,0 +1,24 @@
+#tituloprincipal{
+color: rgb(0, 0, 0);
+}
+
+#autor{
+background-color: rgb(31, 10, 220);
+}
+
+#piedepagina{
+    background-color: #6bbddd;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid rgb(75, 27, 220);
+    border-radius: 25px;
+}
+
+#linkd{
+    color: #ffffff;
+}
+
+#libros{
+    background-color: rgb(85, 176, 255);
+}
